@@ -1,25 +1,32 @@
-# Hi there, I'm John Doe! 👋
+# 👋 Welcome to My GitHub Profile
 
 ## About Me
+I am Ego Oktafanda, a seasoned IT professional with a Master’s degree in Computer Science from UPI YPTK Padang (2022). My journey in software development began in 2018, specializing in web application development. I excel in PHP, particularly with the Laravel and CodeIgniter frameworks, and am proficient in Node.js using Adonis.js and Express.js. My frontend development skills include React and Next.js. I am also adept with Java and Python, allowing me to transition seamlessly across various projects.
 
-I am a software developer with a passion for open-source projects. I enjoy working with modern web technologies and building innovative solutions.
+My passion lies in advancing technology, consistently delivering innovative solutions, and adding significant value to my team through strong technical skills and adaptability. My deep understanding of programming logic has been instrumental in overcoming complex challenges, ensuring project success, and achieving business objectives.
 
-- 🔭 I’m currently working on [Project XYZ](https://github.com/johndoe/project-xyz)
-- 🌱 I’m currently learning Rust and Kubernetes
-- 💬 Ask me about JavaScript, React, and Node.js
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/johndoe/) | [Twitter](https://twitter.com/johndoe)
-- ⚡ Fun fact: I love hiking and photography
+## Skills and Expertise
+- **Languages**: PHP, JavaScript, Java, Python
+- **Frameworks**: Laravel, CodeIgniter, Adonis.js, Express.js, React, Next.js
+- **Tools & Technologies**: MySQL, Git, Docker, Jenkins
 
-## My Skills
+## Get In Touch
+- **Website**: [egooktafanda.com](https://egooktafanda.com)
+- **LinkedIn**: [Ego Oktafanda](https://www.linkedin.com)
+- **Twitter**: [@ego_oktafanda](https://twitter.com)
 
-- **Languages:** JavaScript, TypeScript, Python, Rust
-- **Frameworks:** React, Vue, Express
-- **Tools:** Git, Docker, Kubernetes, Jenkins
+## GitHub Statistics
+![Ego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=egooktafanda97&show_icons=true&theme=radical)
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+## Featured Projects
+- [**Project 1**](https://github.com/egooktafanda97/project1): A detailed description of what Project 1 entails.
+- [**Project 2**](https://github.com/egooktafanda97/project2): An overview of Project 2 and its functionalities.
+- [**Project 3**](https://github.com/egooktafanda97/project3): Key features and purpose of Project 3.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical)
+## Achievements
+- ⭐ Starred 67 repositories
+- 🏆 Recognized as a Pull Shark, Starstruck, and Arctic Code Vault Contributor
 
-![GitHub followers](https://img.shields.io/github/followers/johndoe?style=social)
-![GitHub stars](https://img.shields.io/github/stars/johndoe?style=social)
-![GitHub forks](https://img.shields.io/github/forks/johndoe?style=social)
+---
+
+Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me for any collaborations or professional inquiries.
